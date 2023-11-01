@@ -25,6 +25,7 @@
         android:layout_marginTop="5dp"
         android:layout_marginStart="10dp"
         android:hint="Enter amount"
+        android:inputType="number"
         android:layout_below="@+id/productName"/>
 
     <androidx.cardview.widget.CardView
