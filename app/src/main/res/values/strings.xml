@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="table_name">expense</string>
+</resources>
